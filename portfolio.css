@@ -1,0 +1,52 @@
+.bg-black{
+	background-color: black;
+	color: #fff;
+}
+
+#main-header img{
+	height: 100%;
+	width: 100%;
+}
+
+#main-header a{
+	color: #fff;
+}
+
+.port-item{
+	width: 30%;
+}
+
+.port-item:hover{
+	opacity: 0.8;
+	cursor: pointer; 
+}
+
+#main-header .fas{
+	font-size: 1.5em;
+}
+
+#resume img{
+	height: 800px;
+	width: 800px;
+}
+
+#mywork .fas{
+	font-size: 2.5em;
+}
+
+#mywork a{
+	color: #fff;
+}
+
+.exp-card{
+	width: 50%;
+}
+
+#mywork .exp-card{
+	margin-left: 25%;
+}
+
+#contact .card{
+	width: 30%;
+	margin-left: 35%;
+}
